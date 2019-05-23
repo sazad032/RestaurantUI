@@ -14,7 +14,7 @@ header{
     font-size: 18px;
     position: absolute;
     top: 30%;
-    left: 20%;
+    left: 40%;
 }
 
 .checkout{
@@ -25,8 +25,8 @@ header{
    border: none;
    border-radius: 5px;
    background-color: red;
-   top: 80%;
-   right: 50%;
+   top: 70%;
+   right: 42%;
 }
 
 .menu{
@@ -37,6 +37,6 @@ header{
    border: none;
    border-radius: 5px;
    background-color: red;
-   top: 80%;
-   right: 56%;
+   top: 70%;
+   right: 50%;
 }
