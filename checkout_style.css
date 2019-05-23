@@ -1,0 +1,58 @@
+.reciept{
+    background: rgba(0,0,0,0.15);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+.tips{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+.tip_button{
+   border: 2px solid black;
+   width: 90px;
+   height: 40px; 
+   color: black;
+   background-color: white;
+}
+
+.tip_button:hover {
+  background-color: rgb(255, 0, 147);
+  color: white;
+}
+
+.address{
+    background: rgba(0,0,0,0.15);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+    position: absolute;
+    top: 15%;
+    right: 20%;
+}
+
+.total{
+    background: rgba(0,0,0,0.15);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+    position: absolute;
+    top: 40%;
+    right: 20%;
+}
+
+.confirm{
+   width: 90px;
+   height: 40px; 
+   color: black;
+   background-color: white;
+   top: 70%;
+   right: 20%;
+}
