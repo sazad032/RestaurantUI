@@ -1,0 +1,97 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.top-bar{
+    background-color: #efefef;
+    height: 60px;
+    align-content: center;
+}
+
+#nav_bar{
+    border-bottom: 1px solid #efefef;    
+}
+
+#in-bar{
+    width: 900px;
+    margin: 0 auto;
+    background-color: red;    
+}
+
+#logo{
+    transform: scale(0.7);
+    padding: 0 ;
+    float: left;
+    height: 60px;
+    align-content: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+button{
+    float: right;
+    margin: 15px 5px 10px;
+    border: 1px solid #FF1494;
+    border-radius: 8px;
+    padding: 4px;
+    text-decoration-line: none;
+    text-align: center;
+    color: #FF1494;
+    display: inline-block;
+    background-color: #efefef;
+    
+}
+
+button:hover { 
+  background-color: #FF1494;
+  color: aliceblue;
+}
+
+#search-area{
+    height: 200px;
+    background-color: ##FFFFFF;
+    border-bottom: 1px solid #efefef;
+}
+
+#select-div{
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 80px;
+    background-color: #FFFFFF;    
+}
+
+
+
+.cat-all{
+    -webkit-appearance: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #FF1494;    
+}
+
+#all{
+    float: left;
+    height: 20px;
+    
+}
+
+#rent{
+    float: left;
+    height: 20px;
+}
+
+#pickup{
+    float: left;
+    height: 20px;
+}
+
+
+

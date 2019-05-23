@@ -1,0 +1,54 @@
+header{
+    background-image: linear-gradient(rgba(128, 18, 168, 0.7),rgba(131, 95, 106, 0.7)),url(assets/Food-Pictures.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.main-logo{
+    position: absolute;
+    top: 20%;
+    left: 42%
+    
+}
+
+.logo{    
+    height: 230px;
+    width: auto;
+    float: left;
+    margin-top: 15px;
+}
+
+.criteria li{
+    display: inline-block;   
+}
+
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 29%
+}
+
+select{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+input{
+    width: 300px;
+    height: 34px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+   width: 90px;
+   border: none;
+   height: 40px; 
+   border-radius: 5px;
+   color: aliceblue;
+   background-color: rgb(255, 0, 147)
+}
