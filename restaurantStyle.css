@@ -1,0 +1,78 @@
+header{
+    background-image: linear-gradient(#ffffff,#ffffff);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+
+.Heading{
+    position: absolute;  
+    top: 8%;
+    left: 30%;
+    
+}
+
+.title{
+    color: black;      
+    padding: 20%;
+}
+
+.context{
+    word-spacing: 1px;
+    line-height: 145%;
+    font-size: 25px;
+    color: black;
+    font-family:serif;
+}
+
+
+.col-1-of-3{
+    border: 1px solid;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    padding: 20px;    
+}
+
+.col-2-of-3{
+    border: 1px solid;
+    position: absolute;
+    padding: 20px;
+    top: 30%;
+    left: 39.7%;
+}
+
+.coconut{    
+    height: 200px;
+
+}
+
+.mandarin{    
+    height: 200px;
+    width: 315px;
+}
+
+.keg{    
+    height: 200px;
+    width: 315px;
+}
+
+.half-star{
+    height: 30px;
+}
+
+.dollar{
+    height: 20px;
+}
+
+.col-3-of-3{
+    border: 1px solid;
+    position: absolute;    
+    top: 30%;
+    left: 60%;
+    padding: 20px;
+}
+
+
